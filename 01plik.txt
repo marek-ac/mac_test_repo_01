@@ -1,3 +1,0 @@
-wersja 01
-pierwsza linia plik 01
-zmiana w pliku 01 do trzeciego brancha
