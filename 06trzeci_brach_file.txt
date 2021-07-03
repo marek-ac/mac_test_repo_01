@@ -1,1 +1,3 @@
-to jest zmaian na masterze
+
+to jest zmiana na trzeci branch po recznym mergu (korekcji)
+
