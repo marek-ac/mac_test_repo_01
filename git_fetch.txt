@@ -1,1 +1,0 @@
-3 nowy na master git fetch
